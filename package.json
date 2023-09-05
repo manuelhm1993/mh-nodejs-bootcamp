@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/manuelhm1993/mh-nodejs-bootcamp/issues"
   },
-  "homepage": "https://github.com/manuelhm1993/mh-nodejs-bootcamp#readme"
+  "homepage": "https://github.com/manuelhm1993/mh-nodejs-bootcamp#readme",
+  "dependencies": {
+    "moment": "^2.19.1"
+  }
 }
