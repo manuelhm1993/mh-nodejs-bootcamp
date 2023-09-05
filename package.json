@@ -1,0 +1,26 @@
+{
+  "name": "mh-nodejs-bootcamp",
+  "version": "1.0.0",
+  "description": "Proyecto para aprender nodejs",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelhm1993/mh-nodejs-bootcamp.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Nodejs",
+    "HTML5",
+    "Bootstrap",
+    "MySQL"
+  ],
+  "author": "Manuel Henriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelhm1993/mh-nodejs-bootcamp/issues"
+  },
+  "homepage": "https://github.com/manuelhm1993/mh-nodejs-bootcamp#readme"
+}
