@@ -5,3 +5,5 @@ frutas.forEach((fruta) => {
 });
 
 console.log(precios);
+
+console.log("Hice unos cambios");
