@@ -23,7 +23,10 @@
     "url": "https://github.com/manuelhm1993/mh-nodejs-bootcamp/issues"
   },
   "homepage": "https://github.com/manuelhm1993/mh-nodejs-bootcamp#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
   "dependencies": {
-    "moment": "^2.19.1"
+    "moment": "^2.29.4"
   }
 }

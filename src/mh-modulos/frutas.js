@@ -1,4 +1,4 @@
-const frutas = ['🍉', '🍓', '🍒'];
+const frutas = ['🍉', '🍓', '🍒', '🍏'];
 const precios = [100, 200];
 
 // Equivalente a export default CommonJS
